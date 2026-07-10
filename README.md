@@ -1,106 +1,21 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=220&section=header&text=KARNATAKAM%20SAKSHI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+# 💫 About Me:
+🎓 B.Tech Computer Science & Engineering Student<br>💻 Passionate about Software Development, Machine Learning, and  Data Analytics <br>🚀 Skilled in Java, Python, SQL, HTML, CSS, Git, GitHub, MySQL, and Data Structures & Algorithms (DSA)<br>📊 Exploring Data Analytics with Power BI, Excel, and Python<br>🌱 Currently building real-world projects while strengthening my problem-solving and DSA skills<br>🤝 Open to collaborating on Open Source, Java, Python, Web Development, Machine Learning, and Data Analytics projects<br>⚡ Passionate about learning, building, and creating impactful solutions.
 
-<h1 align="center">Hi 👋, I'm Karnatakam Sakshi</h1>
 
-<h3 align="center">
-B.Tech Computer Science & Engineering Student | Java Developer | Machine Learning & Data Analytics Enthusiast
-</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karnatakamsakshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karnatakamsakshi@gmail.com) 
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Software+Development+Enthusiast;Java+%7C+Python+%7C+DSA;Machine+Learning+%26+Data+Analytics;Always+Learning+and+Building+🚀" />
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=SRISAKSHI-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=SRISAKSHI-12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SRISAKSHI-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-# 💫 About Me
-
-🎓 B.Tech Computer Science & Engineering Student
-
-💻 Passionate about Software Development, Machine Learning, Data Analytics, and Data Structures & Algorithms (DSA)
-
-🚀 Skilled in Java, Python, SQL, HTML, CSS, Git, GitHub, MySQL, and DSA
-
-📊 Exploring Data Analytics using Power BI, Excel, and Python
-
-🌱 Currently building real-world projects while strengthening my problem-solving and DSA skills
-
-🤝 Open to collaborating on Open Source, Java, Python, Web Development, Machine Learning, and Data Analytics projects
-
-⚡ Passionate about learning, building, and creating impactful solutions.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SRISAKSHI-12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=SRISAKSHI-12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/karnatakamsakshi" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:karnatakamsakshi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,aws,c,cpp&theme=dark"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SRISAKSHI-12&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRISAKSHI-12&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SRISAKSHI-12&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SRISAKSHI-12&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SRISAKSHI-12&theme=tokyo-night"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SRISAKSHI-12&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
-</p>
-
-<p align="center">
-⭐️ Thanks for visiting my profile! ⭐️
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
